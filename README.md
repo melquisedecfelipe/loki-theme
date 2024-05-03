@@ -22,7 +22,7 @@ Here the screenshots:
 
 ## Personal Settings
 
-```js
+```json
 {
   "editor.fontFamily": "JetBrains Mono",
   "editor.fontSize": 16,
