@@ -19,7 +19,7 @@ Here the screenshots:
 ![VS Code Marketplace](./screenshots/screenshot-tsx.png)
 ![VS Code Marketplace](./screenshots/screenshot-css.png)
 
-## Personal Settings.
+## Personal Settings
 
 ```js
 {
