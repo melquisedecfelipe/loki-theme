@@ -2,7 +2,7 @@
   "name": "loki-theme",
   "displayName": "Loki Theme",
   "description": "A Loki theme based in Dracula Refined",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "Outbound",
   "repository": {
     "type": "git",
