@@ -200,7 +200,7 @@
     "terminal.border": "#00000000",
     "menu.selectionForeground": "#e4e4e7",
     "quickInput.foreground": "#a1a1aa",
-    "menubar.selectionForeground": "#e5e5e5",
+    "menubar.selectionForeground": "#e4e4e7",
     "menu.foreground": "#e4e4e7",
     "checkbox.foreground": "#e4e4e7",
     "editorGroup.border": "#27272a",
@@ -323,9 +323,9 @@
     "editorSuggestWidget.selectedIconForeground": "#e4e4e7",
     "inputValidation.infoForeground": "#e4e4e7",
     "list.filterMatchBackground": "#00000000",
-    "sideBarSectionHeader.foreground": "#ede9fe",
+    "sideBarSectionHeader.foreground": "#e4e4e7",
     "notificationToast.border": "#00000000",
-    "minimap.background": "#18181b"
+    "minimap.background": "#121212"
   },
   "tokenColors": [
     {

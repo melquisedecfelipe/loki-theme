@@ -36,7 +36,12 @@
       {
         "label": "Loki",
         "uiTheme": "vs-dark",
-        "path": "./themes/loki-color-theme.json"
+        "path": "./themes/loki-theme.json"
+      },
+      {
+        "label": "Loki Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/loki-theme-contrast.json"
       }
     ]
   }
