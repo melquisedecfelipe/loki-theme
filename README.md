@@ -41,6 +41,10 @@ You have two themes, Loki &amp; Contrast and here the screenshots:
   "editor.fontLigatures": true,
   "editor.cursorBlinking": "phase",
   "editor.renderWhitespace": "all",
+  "editor.rulers": [80, 120],
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "workbench.statusBar.visible": false,
 }
 ```
 
