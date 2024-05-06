@@ -1,4 +1,4 @@
-![loki-theme](./logo/theme-icon.png)
+![loki-theme](./logo/loki.gif)
 
 # Loki Theme for VS Code.
 
