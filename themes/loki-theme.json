@@ -221,7 +221,7 @@
     "toolbar.hoverBackground": "#00000000",
     "tree.indentGuidesStroke": "#00000000",
     "scrollbar.shadow": "#00000000",
-    "scrollbarSlider.background": "#00000000",
+    "scrollbarSlider.background": "#27272a",
     "menu.separatorBackground": "#27272a",
     "menu.background": "#18181b",
     "menu.selectionBackground": "#27272a",
