@@ -23,13 +23,13 @@ You have two themes, Loki &amp; Contrast and here the screenshots:
 
 ### Loki
 
-![VS Code Marketplace](./screenshots/screenshot-tsx.png)
-![VS Code Marketplace](./screenshots/screenshot-css.png)
+![VS Code Marketplace](./screenshots/tsx.png)
+![VS Code Marketplace](./screenshots/css.png)
 
 ### Loki Contrast
 
-![VS Code Marketplace](./screenshots/screenshot-html.png)
-![VS Code Marketplace](./screenshots/screenshot-package.png)
+![VS Code Marketplace](./screenshots/html.png)
+![VS Code Marketplace](./screenshots/package.png)
 
 ## Personal Settings
 
