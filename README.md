@@ -8,7 +8,7 @@ Loki is composed of a dark background with [Dracula Refined](https://github.com/
 
 1. Open **Extensions** sidebar panel in VS Code. `View > Extensions`
 2. Search for **`Loki Theme`**
-3. Click **Install** to install it.
+3. Click **Install** to install it
 4. `Code > Preferences > Color Theme > Loki - Loki Contrast`
 
 The theme is available for editors; shells, UI's and more coming up.
