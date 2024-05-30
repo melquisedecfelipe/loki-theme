@@ -189,7 +189,7 @@
     "breadcrumb.background": "#00000000",
     "breadcrumb.focusForeground": "#3f3f46",
     "breadcrumb.activeSelectionForeground": "#3f3f46",
-    "breadcrumbPicker.background": "#00000000",
+    "breadcrumbPicker.background": "#121212",
     "listFilterWidget.background": "#00000000",
     "listFilterWidget.outline": "#00000000",
     "listFilterWidget.noMatchesOutline": "#FF5555",
